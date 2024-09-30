@@ -46,6 +46,13 @@ While this project provides valuable insights into bikeshare usage, there are a 
 - Limited Time Frame: The analysis only covers the first six months. A full-year dataset would provide a brgoader view.
 - Interface Limitation: The command-line interface may be difficult for non-technical users.
 - Static Data: The project uses fixed datasets, not reflecting real-time bikeshare database.
+## Future Improvements
+This project provides a solid foundation for analyzing bikeshare data, but there are several areas that could be expanded in the future:
+- Additional Cities: Include more cities for a broader dataset, enabling nationwide comparisons.
+- Data Visualization: Introduce charts, graphs, or maps to better showcase bikeshare statistics.
+- Web Interface: Shift to a user-friendly web application with dropdowns and filters.
+- Real-Time Data: Integrate live bikeshare data for real-time analysis and insights.
+- Machine Learning: Implement predictive models to forecast bikeshare demand based on historical data, weather, and demographics.
 ## Credits
 Special thanks to the following resources for aiding the completion of this project:
 - [Python Official Documentation:](https://docs.python.org/3/contents.html) A valuable resource for Python programming.
