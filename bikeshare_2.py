@@ -172,7 +172,7 @@ def main():
         user_stats(df)
 
         # Display 5 rows of data
-        row = 0
+        current_row_index = 0
         while True:
             display = input('\nWould you like to view individual trip data? Enter "yes" or "no".\n')
             # validate the input
