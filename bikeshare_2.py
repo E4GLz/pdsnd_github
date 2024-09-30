@@ -1,6 +1,6 @@
 import time
 import pandas as pd
-
+# this dictionary contains the csv files for the cities
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
